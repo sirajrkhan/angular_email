@@ -28,7 +28,8 @@ angular
         controller: 'AboutCtrl'
       })
     .when('/contact',{
-        templateUrl: 'views/contact.html'
+        templateUrl: 'views/contact.html',
+        controller: 'ContactCtrl'
     })
       .otherwise({
         redirectTo: '/'
