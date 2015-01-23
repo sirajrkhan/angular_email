@@ -1,1 +1,2 @@
-# angular_email
+# Email App
+Email app build using AngularJS
