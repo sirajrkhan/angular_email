@@ -2,6 +2,7 @@
 // http://karma-runner.github.io/0.12/config/configuration-file.html
 // Generated on 2015-01-20 using
 // generator-karma 0.8.3
+// For angular email
 
 module.exports = function(config) {
   'use strict';
